@@ -1,0 +1,10 @@
+C:\Users\Admin\Documents\GitHub\eme-god\temporaryForm\temporaryForm\bin\Debug\temporaryForm.exe.config
+C:\Users\Admin\Documents\GitHub\eme-god\temporaryForm\temporaryForm\bin\Debug\temporaryForm.exe
+C:\Users\Admin\Documents\GitHub\eme-god\temporaryForm\temporaryForm\bin\Debug\temporaryForm.pdb
+C:\Users\Admin\Documents\GitHub\eme-god\temporaryForm\temporaryForm\obj\Debug\temporaryForm.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\GitHub\eme-god\temporaryForm\temporaryForm\obj\Debug\temporaryForm.Form1.resources
+C:\Users\Admin\Documents\GitHub\eme-god\temporaryForm\temporaryForm\obj\Debug\temporaryForm.Properties.Resources.resources
+C:\Users\Admin\Documents\GitHub\eme-god\temporaryForm\temporaryForm\obj\Debug\temporaryForm.csproj.GenerateResource.cache
+C:\Users\Admin\Documents\GitHub\eme-god\temporaryForm\temporaryForm\obj\Debug\temporaryForm.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\GitHub\eme-god\temporaryForm\temporaryForm\obj\Debug\temporaryForm.exe
+C:\Users\Admin\Documents\GitHub\eme-god\temporaryForm\temporaryForm\obj\Debug\temporaryForm.pdb
