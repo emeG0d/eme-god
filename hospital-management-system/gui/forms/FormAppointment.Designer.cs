@@ -39,8 +39,6 @@ namespace hospital_management_system.gui.forms
             this.billingTableLayout = new System.Windows.Forms.TableLayoutPanel();
             this.regNumRoomNumLayoutPanel = new System.Windows.Forms.TableLayoutPanel();
             this.registrationTextbox = new System.Windows.Forms.TextBox();
-            this.roomNumberTextBox = new System.Windows.Forms.TextBox();
-            this.roomNumberLabel = new System.Windows.Forms.Label();
             this.registrationLabel = new System.Windows.Forms.Label();
             this.statusLayoutPanel = new System.Windows.Forms.TableLayoutPanel();
             this.billingRoomLayoutPanel = new System.Windows.Forms.TableLayoutPanel();
@@ -223,8 +221,6 @@ namespace hospital_management_system.gui.forms
             this.regNumRoomNumLayoutPanel.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 48.3871F));
             this.regNumRoomNumLayoutPanel.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 51.6129F));
             this.regNumRoomNumLayoutPanel.Controls.Add(this.registrationTextbox, 0, 1);
-            this.regNumRoomNumLayoutPanel.Controls.Add(this.roomNumberTextBox, 1, 1);
-            this.regNumRoomNumLayoutPanel.Controls.Add(this.roomNumberLabel, 1, 0);
             this.regNumRoomNumLayoutPanel.Controls.Add(this.registrationLabel, 0, 0);
             this.regNumRoomNumLayoutPanel.Dock = System.Windows.Forms.DockStyle.Bottom;
             this.regNumRoomNumLayoutPanel.Location = new System.Drawing.Point(3, 3);
@@ -243,27 +239,6 @@ namespace hospital_management_system.gui.forms
             this.registrationTextbox.Name = "registrationTextbox";
             this.registrationTextbox.Size = new System.Drawing.Size(231, 29);
             this.registrationTextbox.TabIndex = 10;
-            // 
-            // roomNumberTextBox
-            // 
-            this.roomNumberTextBox.Font = new System.Drawing.Font("Segoe UI", 12F);
-            this.roomNumberTextBox.Location = new System.Drawing.Point(241, 35);
-            this.roomNumberTextBox.Margin = new System.Windows.Forms.Padding(2);
-            this.roomNumberTextBox.Name = "roomNumberTextBox";
-            this.roomNumberTextBox.Size = new System.Drawing.Size(250, 29);
-            this.roomNumberTextBox.TabIndex = 8;
-            // 
-            // roomNumberLabel
-            // 
-            this.roomNumberLabel.Anchor = System.Windows.Forms.AnchorStyles.Left;
-            this.roomNumberLabel.AutoSize = true;
-            this.roomNumberLabel.Font = new System.Drawing.Font("Segoe UI", 12F);
-            this.roomNumberLabel.Location = new System.Drawing.Point(242, 6);
-            this.roomNumberLabel.Margin = new System.Windows.Forms.Padding(3);
-            this.roomNumberLabel.Name = "roomNumberLabel";
-            this.roomNumberLabel.Size = new System.Drawing.Size(114, 21);
-            this.roomNumberLabel.TabIndex = 9;
-            this.roomNumberLabel.Text = "Room Number";
             // 
             // registrationLabel
             // 
@@ -683,8 +658,6 @@ namespace hospital_management_system.gui.forms
         private System.Windows.Forms.TextBox departmentChargeTextBox;
         private System.Windows.Forms.TableLayoutPanel regNumRoomNumLayoutPanel;
         private System.Windows.Forms.TextBox registrationTextbox;
-        private System.Windows.Forms.TextBox roomNumberTextBox;
-        private System.Windows.Forms.Label roomNumberLabel;
         private System.Windows.Forms.Label registrationLabel;
         private System.Windows.Forms.TableLayoutPanel statusLayoutPanel;
         private System.Windows.Forms.TableLayoutPanel billingRoomLayoutPanel;
